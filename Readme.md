@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [irina hasanova](https://up.htmlacademy.ru/htmlcss/16/user/299091).
+* Студент: [khasanova irina irina irina](https://up.htmlacademy.ru/htmlcss/16/user/299091).
 
 ---
 
